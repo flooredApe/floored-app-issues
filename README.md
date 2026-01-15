@@ -2,10 +2,6 @@
 
 This repository is for **bug reports and feature requests only** — it contains no code.
 
-## The App
-
-Visit [floored.app](https://floored.app) to learn more.
-
 ## Beta Access
 
 A small group of users are currently testing via TestFlight (invite only). 
